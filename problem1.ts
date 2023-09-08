@@ -1,3 +1,4 @@
+
 /*
   This code establishes an array that will include every integer that is not in the array by 
   using a cont variable assigned to 1 iterating the cont variable each time and evaluating the cont variable
